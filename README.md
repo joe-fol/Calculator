@@ -1,3 +1,3 @@
-# Calculator
+# JS Calculator ✖️ ➗ ➖ ➕
 
-A simple Js calculator
+A simple Calculator using HTML, SCSS and Vanilla Js
